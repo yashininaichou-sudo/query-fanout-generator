@@ -1,0 +1,2 @@
+# query-fanout-generator
+SEO
